@@ -1,0 +1,7 @@
+The goodies selected for distribution: 
+
+Digital Camera: 11101
+Alexa: 9999
+Microwave Oven: 9800
+
+And the difference between the chosen goodie with highest price and the lowest price is 1301
